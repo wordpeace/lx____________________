@@ -1,0 +1,9 @@
+*{margin:0;padding:0;font-size: 14px;outline-style: none;font-family: 微软雅黑;}
+
+.contender{padding-top:300px;width: 1000px;height:900px;margin:0 auto;}
+.inputbox{margin-bottom: 50px;}
+.input{height:32px; }
+.input span{color:#333333;font-size: 18px;line-height: 30px;}
+.text{margin: 0 10px 0 20px;width: 200px;height: 30px;font-size: 16px;line-height: 30px;border: 1px solid #cccccc;border-radius: 3px;}
+.button{border: none;height: 30px;width: 50px;color: #ffffff;background-color:#6495ED;border-radius: 5px;}
+.inputbox p{margin-top: 5px;font-size: 12px;margin-left: 55px;color:#999999;}
